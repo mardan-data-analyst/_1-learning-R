@@ -1,2 +1,2 @@
 # _1-learning-R
-First course of LinkedIn Learning Path Master R for Data Science
+Guided codes of the first course of LinkedIn Learning Path Master R for Data Science by Barton Poulson
